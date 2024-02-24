@@ -1,3 +1,9 @@
+.metadata
+workspace.wvsln
+.settings
+obj
+
+
 # Prerequisites
 *.d
 
